@@ -1,6 +1,4 @@
----
-title: Software Blog
----
+
 
 ## Test 1
 
